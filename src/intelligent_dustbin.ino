@@ -1,9 +1,3 @@
-/*
- * Intelligent Automatic Dustbin System
- * ESP32 Implementation with Non-Blocking State Machine
- * Enhanced with debouncing, error handling, and smooth operation
- */
-
 #include <ESP32Servo.h>
 
 // ==================== PIN DEFINITIONS ====================
