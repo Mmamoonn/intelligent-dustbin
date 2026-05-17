@@ -2,19 +2,7 @@
 
 An embedded systems project implementing a **contactless, intelligent automatic dustbin** that uses dual ultrasonic sensors for user proximity detection and fill-level monitoring, an MG90s servo motor for lid actuation, and a tri-color LED feedback system — all governed by a **7-state Non-Blocking Finite State Machine (FSM)** running on an ESP32 microcontroller.
 
-> 📄 This project was written up as an **IEEE conference paper** (LaTeX format) for the Sensors & Actuators course (RME321).
-
----
-
-## 📌 Project Overview
-
-| Detail | Info |
-|--------|------|
-| University | University of Central Punjab (UCP) |
-| Course | Sensors & Actuators (RME321-F25-BS-RI-F23-A) |
-| Semester | 5th — BS Robotics & Intelligent Systems |
-| Submission | January 22, 2026 |
-| Authors | Muhammad Mamoon (L1F23BSRI0014), Muhammad Asad Ali (L1F23BSRI0024) |
+> 📄 This project was written up as an **IEEE conference paper**.
 
 ---
 
@@ -245,12 +233,4 @@ Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 
 ## 👤 Authors
 
-| Name | Reg. No |
-|------|---------|
-| Muhammad Mamoon | L1F23BSRI0014 |
-| Muhammad Asad Ali | L1F23BSRI0024 |
-
-## 🙏 Acknowledgements
-
-- Sensors & Actuators Course — University of Central Punjab
-- Session: Fall 2025 — BS Robotics & Intelligent Systems, Semester 5
+Muhammad Mamoon
