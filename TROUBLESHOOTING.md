@@ -268,5 +268,3 @@
 ---
 
 *Troubleshooting Guide — Intelligent Automatic Dustbin*
-*Authors: Muhammad Mamoon (L1F23BSRI0014) | Muhammad Asad Ali (L1F23BSRI0024)*
-*Sensors & Actuators — UCP Fall 2025*
